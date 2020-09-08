@@ -1,6 +1,5 @@
 # Tictac
-
-**TODO: Add description**
+This is a tic tac toe module.
 
 ## Installation
 
